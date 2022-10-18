@@ -16,7 +16,7 @@ apt-get install nodejs -y
 
 apt-get install npm -y
 
-cd ZxCDDos/
+cd Jshdgdd 
 
 npm i requests
 
@@ -44,8 +44,8 @@ npm i cloudflare-bypasser
 
 Lệnh vào tool 
 
-Cd ZxCDDoS
+Cd Jshdgdd
 
 Python3 c2.py
 
-Pass 
+
