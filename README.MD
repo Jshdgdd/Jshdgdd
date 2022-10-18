@@ -1,3 +1,5 @@
+Pass => https://octolink.io/Passtool 
+
 Git clone https://github.com/Jshdgdd/Jshdgdd
 
 apt-get install golang -y
@@ -39,3 +41,11 @@ npm i randomstring
 npm i cluster
 
 npm i cloudflare-bypasser
+
+Lệnh vào tool 
+
+Cd ZxCDDoS
+
+Python3 c2.py
+
+Pass 
