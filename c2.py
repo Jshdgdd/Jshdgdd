@@ -755,25 +755,7 @@ CLEAR   ► CLEAR TERMINAL
 def login():
     clear()
     user = "admin"
-    passwd = "thanhlam123"
-    username = input("⚡ Username: ")
-    password = getpass.getpass(prompt='⚡ Password: ')
-    if username != user or password != passwd:
-        print("")
-        print("⚡ Haizzz, you're so cute...")
-        sys.exit(1)
-    elif username == user and password == passwd:
-        print("⚡ Welcome to ZxC C2!")
-        time.sleep(0.3)
-        ascii_vro()
-        main()
-
-login()
-
-def login():
-    clear()
-    user = "ntl"
-    passwd = "123"
+    passwd = "admindzlam"
     username = input("⚡ Username: ")
     password = getpass.getpass(prompt='⚡ Password: ')
     if username != user or password != passwd:
